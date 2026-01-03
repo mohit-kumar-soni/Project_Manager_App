@@ -1,5 +1,7 @@
 Developer
+
 Mohit Kumar Soni
+
 Android Developer | Kotlin | Jetpack Compose
 
 Password Manager App (Android)
