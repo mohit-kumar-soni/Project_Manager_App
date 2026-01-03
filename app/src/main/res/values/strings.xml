@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PasswordManagerApp</string>
+    <string name="add_password">Add New Account</string>
+    <string name="edit_password">Update Account</string>
+</resources>
